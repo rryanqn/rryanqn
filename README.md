@@ -9,7 +9,6 @@
 <div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rryanqn&count_private=true&show_icons=true&theme=dark)
 
 <img align= "center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
